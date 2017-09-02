@@ -1,4 +1,3 @@
 num = int(input())
-i = 0
-for i in range(1,num+1):
-  print(num ** i)
+pow_num = int(input())
+print(num ** pow_num)
