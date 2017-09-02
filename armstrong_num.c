@@ -11,7 +11,7 @@ temp1 = temp1 / 10;
 sum = sum + (temp2 * temp 2 * temp2);
 }
 if(num == sum)
-primtf("Palindrome");
+primtf("Armstrong number");
 else
-printf("Not palindrome");
+printf("Not armstrong number");
 }
