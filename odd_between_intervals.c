@@ -7,7 +7,7 @@ scanf("%d",&end_num);
 for(i=start_num;i<=end_num;i++)
 {
 if(i % 2 != 0)
-printf("%d",i);
+printf("%d\n",i);
 else
 continue;
 }
