@@ -1,2 +1,1 @@
-ch = input()
-print(ch*5)
+print(Hello*5)
