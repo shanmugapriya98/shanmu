@@ -12,6 +12,6 @@ for(i=1;i<10;i++)
 if(max < num[i])
 max = num[i];
 }
-printf("%d is greatest");
+printf("%d is greatest",max);
 return 0;
 }
